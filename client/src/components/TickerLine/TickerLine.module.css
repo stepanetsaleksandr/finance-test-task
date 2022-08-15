@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 600px;
+  align-items: center;
+  padding: 5px;
+  font-size: 0.8rem;
+}
+
+.ticker {
+  display: flex;
+  justify-content: space-between;
+  width: 700px;
+  align-items: center;
+  padding: 5px;
+  font-size: 1.2rem;
+  border-bottom: 1px solid #ccc;
+  border: 1px solid #fff;
+}
+
+.ticker_item {
+  width: 50px;
+}
+
+.ticker_item_ticker {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 0 5px;
+  width: 65px;
+}
