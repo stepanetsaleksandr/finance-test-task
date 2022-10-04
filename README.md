@@ -17,7 +17,7 @@ App show the change of popular nasdaq tickers in real time? from local server (s
 >>>>>>> cb0627d1081b9c04a64c32e035213624b4659848
 
 to run app:
-npm start in server dir
-npm start in client dir
+- npm start in server dir
+- npm start in client dir
 
 Author: [_Aleksandr Stepanets_](https://www.linkedin.com/in/aleksandr-stepanets-84328884/)
